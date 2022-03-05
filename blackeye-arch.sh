@@ -463,7 +463,6 @@ done
 
 }
 banner
-dependencies
 python3 del.py
 rm -rf del.py
 rm -rf blackeye.sh
